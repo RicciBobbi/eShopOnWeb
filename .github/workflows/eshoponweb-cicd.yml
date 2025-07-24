@@ -9,7 +9,7 @@ env:
   LOCATION: South Africa North
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: "0801f732-0851-45a0-a272-f04baca257b3"
-  WEBAPP-NAME: eshoponweb-webapp-RicWebapp
+  WEBAPP-NAME: eshoponweb-webapp-Ricwebapp
 
 
 jobs:
